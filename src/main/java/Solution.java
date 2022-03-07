@@ -42,6 +42,10 @@ class Solution {
         for(int i = 0; i < player.length; i++){
             System.out.printf("%s %s\n", player[i].name, player[i].score);
         }
+
+        //I am going to add this incorrect method here to show that something have changes
+
+
     }
 }
 
